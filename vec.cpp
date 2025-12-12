@@ -64,6 +64,7 @@ int main(){
                 R=A ^ B;
 
                 cout<<"\nResultado = "<<R.x<<"i + "<<R.y<<"j + "<<R.z<< "k\n"<<" = "<< "("<<R.x<<","<<R.y<<","<<R.z<<")";
+                dibujito();
                 break;
 
             case 4:
